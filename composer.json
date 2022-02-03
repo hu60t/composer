@@ -1,0 +1,8 @@
+{
+    "require": {
+        "amphp/http-server": "^2.1",
+        "amphp/websocket-server": "^2.0",
+        "amphp/http-server-router": "^1.0",
+        "amphp/log": "^1.1"
+    }
+}
