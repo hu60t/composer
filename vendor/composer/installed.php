@@ -74,6 +74,15 @@
       ),
       'reference' => 'e2b75561011a9596e4574cc867e07a706d56394b',
     ),
+    'amphp/http-client' => 
+    array (
+      'pretty_version' => 'v4.6.2',
+      'version' => '4.6.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '453f84f623e409889168351e60246f5feddc1b3c',
+    ),
     'amphp/http-server' => 
     array (
       'pretty_version' => 'v2.1.5',
@@ -154,6 +163,15 @@
       array (
       ),
       'reference' => 'd0e61e3e34ac09ec230ae0eff2b8beaf8f83a8f9',
+    ),
+    'amphp/websocket-client' => 
+    array (
+      'pretty_version' => 'v1.0.0',
+      'version' => '1.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '173b54137cdcd4288702f615f05c1029e613ba37',
     ),
     'amphp/websocket-server' => 
     array (
